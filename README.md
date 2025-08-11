@@ -1,3 +1,5 @@
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/cca8b0d3-f857-4edd-9bea-870b83a65d8b" />
+
 # Flip Clock (PySide6)
 
 A clean, frameless, **transparent flip clock** for Windows/macOS/Linux built with **PySide6 (Qt)**.  
